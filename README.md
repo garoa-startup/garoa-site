@@ -4,8 +4,9 @@ Somo uma empresa de inovação que trabalha com previsões séries temporais, an
 ### Links
 
 - Nosso Site: [www.garoa.ufpa.br](https://projetogaroaufpa.wixsite.com/projeto-garoa-ufpa)
-![desktop screenshot](https://github.com/garoa-startup/garoa-site/blob/main/j.png)
+![desktop screenshot](https://github.com/garoa-startup/garoa-site/blob/main/site.png)
 - Encontre-nos no Twitter: [@ProjetoGaroa](https://twitter.com/ProjetoGaroa)
+![desktop screenshot](https://github.com/garoa-startup/garoa-site/blob/main/instagram.png)
 - Encontre-nos no Instagram: [projetogaroaufpa](https://www.instagram.com/projetogaroaufpa/)
 
 ## Desenvolvedores
