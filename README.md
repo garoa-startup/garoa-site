@@ -3,7 +3,7 @@ Somo uma empresa de inovação que trabalha com previsões séries temporais, an
 
 ### Links
 
-- Nosso Site: [live site URL here](https://projetogaroaufpa.wixsite.com/projeto-garoa-ufpa)
+- Nosso Site: [www.garoa.ufpa.br](https://projetogaroaufpa.wixsite.com/projeto-garoa-ufpa)
 
 ## Desenvolvedores
 
